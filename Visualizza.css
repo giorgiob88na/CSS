@@ -1,0 +1,109 @@
+@charset "UTF-8";
+input[type=text] {
+  height: 35px;
+  width: 30px;
+
+  transition: width 0.9s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+  width: 20%;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+    border: 1px solid black;
+
+}
+input[type=button] {
+	border-radius: 15pt;
+  font-style: normal;
+  font-size: 20px;
+    text-align: center;
+}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+    border: 1px solid black;
+    font-size: 15px;
+    margin: auto;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+
+}
+input[type=text] {
+  width: 30%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url('zoom.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}
+
+h1{
+
+	text-align: center;
+
+ }
+ #Forma
+{
+	   text-align: center;
+}
+
+#paragrafo{
+background-color:  #F0F8FF;
+	 font-style: normal;
+/*  font-size: 20px;*/
+  text-align: center;
+
+}
+
+body{
+background-color:  #F0F8FF;
+
+}
+
+
+#invia{
+	border-radius: 15pt;
+  font-style: normal;
+  font-size: 20px;
+    text-align: center;
+
+}
+ #rst{
+	border-radius: 15pt;
+  font-style: normal;
+  font-size: 20px;
+  text-align: center;
+
+}
+#tutti{
+	
+	border-radius: 15pt;
+  font-style: normal;
+  font-size: 20px;
+    text-align: center;
+     
+
+}
+#BackRicerca{
+	
+	border-radius: 15pt;
+  font-style: normal;
+  font-size: 20px;
+    text-align: center;
+    position: relative;
+       left: auto;
+    top: auto;
+ 
+}

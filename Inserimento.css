@@ -1,0 +1,217 @@
+
+/* InseVei e macchina sono nascosti all'inizio, per creare effetto a comparsa quando si decide di inserire
+il tipo di veicolo, se l'utente clicca su clear data, riscompare*/
+body{
+	background-color: #F0F8FF;
+}
+#InseVei{
+	display:none;
+	color: #008CBA;
+	 letter-spacing: 3px;
+
+  font-family: verdana;
+  font-size: 20px;
+	position: absolute;
+}
+#macchina{
+display: none;
+position: absolute;
+  font-size: 15px;
+	width: 25%;
+	height: 70%;
+	box-sizing: border-box;
+	border: 1px solid #ccc;
+	background-color: #F0F8FF;
+	border-radius: 4px;
+	font-size: 15px;
+
+
+
+
+	background-position: 10px 10px;
+	background-repeat: no-repeat;
+	padding: 12px 20px 12px 40px;
+
+}
+#rev{
+  font-size: 15px;
+
+}
+#dat{
+	font-size: 15px;
+}
+#vei{
+
+		color: #008CBA;
+		 letter-spacing: 3px;
+
+
+
+	font-family: verdana;
+text-align: center;
+		font-size: 20px;
+	}
+	input[type=text] {
+	  width: 25%;
+		height: 5px;
+	  box-sizing: border-box;
+	  border: 1px solid #ccc;
+	  border-radius: 4px;
+	  font-size: 15px;
+	  background-color: white;
+
+	 /* background-image: url('penna.gif');*/
+
+	  background-position: 10px 10px;
+	  background-repeat: no-repeat;
+	  padding: 12px 20px 12px 40px;
+	}
+	
+	#marc{
+width: 80%;
+height: 5px;
+}
+	#targ{
+width: 80%;
+height: 5px;
+}
+#model{
+width: 80%;
+height: 5px;
+}
+#rev{
+	width: 80%;
+	height: 30px;}
+	#kilom{
+		width: 80%;
+		height: 5px;
+	}
+		#tela{
+			width: 80%;
+			height: 5px;
+		}
+			#dat{
+				width: 80%;
+				height: 30px;
+			}
+
+
+
+
+input[type=radio] {
+  zoom: 2.0;
+ position: center;
+  padding-left: 35px;
+  margin-bottom: 12px;
+}
+
+b{
+	font-size: 30;
+}
+
+h1 {
+	color: #008CBA;
+	 letter-spacing: 3px;
+
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+
+}
+h2 {
+	color: #008CBA;
+	 letter-spacing: 3px;
+
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+
+}
+h3 {
+	color: #008CBA;
+	 letter-spacing: 3px;
+
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+
+}
+h2 {
+	color: #008CBA;
+	 letter-spacing: 3px;
+
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+
+}
+
+h4{
+	color: #008CBA;
+	 letter-spacing: 3px;
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+#nome{
+
+font-size: 20px;
+}
+#cognome{
+
+font-size: 20px;
+}
+#tel{
+font-size: 20px;
+}
+#datans{
+font-size: 20px;
+}
+#nascita{
+font-size: 20px;
+}
+#email{
+font-size: 20px;
+}
+#iva{
+font-size: 20px;
+}
+#auto{
+font-size: 20px;
+}
+#moto{
+font-size: 20px;
+}
+#furgo{
+font-size: 20px;
+}
+form{
+
+	  font-size: 15px;
+		text-align: center;
+		box-sizing: border-box;
+		border: 1px solid #ccc;
+
+		border-radius: 4px;
+}
+#Submit{
+	border-radius: 15pt;
+	font-size: 20px;
+	top: 20pt;
+}
+#TornadaErrore{
+	 position: center;
+	border-radius: 15pt;
+	font-size: 20px;
+	top: 20pt;
+	
+}
+#RST{
+	border-radius: 15pt;
+	font-size: 20px;
+}
+#Back{
+border-radius: 15pt;
+	font-size: 20px;
+}

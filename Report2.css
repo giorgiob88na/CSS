@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+#Officina{
+
+ font-family: Courier New;
+
+}
+input[type=button]
+{
+	
+	border-radius: 15pt;
+  font-style: Italic;
+  font-size: 20px;
+
+}
+#CancellaTorna{	border-radius: 15pt;
+  font-style: Italic;
+  font-size: 20px;
+  
+  }
+#Conferma{	border-radius: 15pt;
+  font-style: Italic;
+  font-size: 20px;}
